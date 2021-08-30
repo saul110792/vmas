@@ -1,0 +1,26 @@
+***********************************************************************************************************************************************************
+*******************************						Guía de Instalación para Omar Hilario										***************************
+***********************************************************************************************************************************************************
+Esta guía es partiendo de que ya se clono el repositorio exitosamente.
+
+1.- Descargar el programa de Node.Js
+	En el siguiente enlace podrás descargar el programa para la versión especifica de tu sistema operativo ("https://nodejs.org/en/download/").
+	Es la tipica instalación donde no es necesario configurar nada.	
+2.- Para poder iniciar el motor de desarrollo en este caso es ReactJs nos posicionaremos en la carpeta raíz del proyecto en este caso es *vmas*:
+	*Ejemplo* c:/DesarrolloWeb/vmas
+	Una vez en esa carpeta ejecutaremos el sig código en la terminal del sistema operativo.
+
+	npm start 
+
+	Con ese código se deberia de abrir una nueva ventana de navegado web con la aplicación corriendo, en caso de mandar error contactar con el admin.
+
+	
+	La documentación oficial se encuentra en el siguiente enlace al igual que foros de desarrolladores o ejemplos básicos ("https://reactjs.org/").
+	
+	******************************************************************************************************************************************************
+	*NOTA:* No es necesario que profundices en el manejo de este motor de desarrollo por que ese no es tu perfil. 
+	"NO ERES UN DESARROLLADOR WEB, SERÁS UN FUTURO ÁNALISTA DE DATOS QUE GENERARA LA INFORMACIÓN PARA QUE CUALQUIER DESARROLLADOR LA PUEDA MOSTRAR EN UNA 
+	APLICACIÓN Y SEA INTERPRETADA POR UN CLIENTE CON NULO CONOCIMIENTO DE MATEMATICAS O ALGORITMOS."*
+	***********************************************************************************************************************************************************
+
+3.- 
